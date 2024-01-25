@@ -1,1 +1,0 @@
-import{_ as e,v as t,t as r}from"./entry.ZLLV3I24.js";const s={},o={class:"display-large"};function a(c,n){return r(),t("div",o," Grazie per aver dimostrato interesse ")}const _=e(s,[["render",a]]);export{_ as default};
